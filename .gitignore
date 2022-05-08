@@ -156,12 +156,5 @@ cython_debug/
 #.idea/
 
 # Project specific settings
-workspace.tar.gz
-processed-celeba-small.zip
-processed_celeba_small/
-processed_celeba_small.zip
-processed-celeba-small/
-Project Checklist.pdf
-Project Submission.docx
-Project Review.pdf
-Project Review.docx
+data/
+cache/
